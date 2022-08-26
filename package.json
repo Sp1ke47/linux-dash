@@ -30,7 +30,7 @@
     "yargs": "^17.5.1"
   },
   "devDependencies": {
-    "@angular/cli": "14.1.2",
+    "@angular/cli": "14.2.0",
     "angular-route": "1.8.3",
     "del": "^7.0.0",
     "gulp": "^4.0.2",
